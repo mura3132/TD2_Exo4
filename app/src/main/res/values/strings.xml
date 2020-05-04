@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestRetrofit</string>
+    <string-array name="users_list">
+        <item>Mehdi</item>
+        <item>Ali</item>
+        <item>Aymen</item>
+        <item>Ahmed</item>
+    </string-array>
+</resources>
